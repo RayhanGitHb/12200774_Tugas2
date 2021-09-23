@@ -7,6 +7,8 @@ class Contoh1 extends CI_Controller
 		echo "Nama Saya Rayhan
 			Saya Tinggal di daerah Mangunreja
 			Olah raga yang saya sukai adalah
-			Basket";
+			Basket.
+			No. Hp : 089659909985
+			Alamat : Kp. Daramaga, Ds. Salebu, Kec. Mangunreja, Kab. Tasikmalaya";
 	}
 }
